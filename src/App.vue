@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <Todo/>
   </div>
 </template>
@@ -26,6 +25,8 @@ export default class App extends Vue {}
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 10%;
+  margin-left:20%;
+  margin-right:20%;
 }
 </style>
